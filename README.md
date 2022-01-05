@@ -18,3 +18,5 @@ Inside project directory, you can run:
 
 Check if the app running, <br />
 Open [http://localhost:9999](http://localhost:9999) on browser.
+
+Check documentation [here](https://documenter.getpostman.com/view/16535030/UVRHj3yh).
